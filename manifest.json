@@ -2,7 +2,7 @@
   "manifest_version": 2,
   "name": "Github Repo Language",
   "version": "1.0",
-  "description": "Show Github's repo language beside repo name ",
+  "description": "A simple chrome extension to show Github's repository language below its name",
   "icons": {
     "48": "icons/github-icon.png"
   },
