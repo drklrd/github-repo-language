@@ -1,0 +1,20 @@
+{
+
+  "manifest_version": 2,
+  "name": "Github Repo Language",
+  "version": "1.0",
+
+  "description": "Show Github's repo language beside repo name ",
+
+  "icons": {
+    "48": "icons/github-icon.png"
+  },
+
+  "content_scripts": [
+    {
+      "matches": ["*://*.github.com/*"],
+      "js": ["github-repo-lang.js"]
+    }
+  ]
+
+}
