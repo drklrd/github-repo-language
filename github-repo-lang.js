@@ -7,6 +7,7 @@ if (githubUrl.split('github.com') && githubUrl.split('github.com').length && git
 		var currentRepo = postFixGithub.split('/')[2];
 		alert(githubUser);
 		alert(currentRepo);
+		$('.repohead-details-container').append("<br> Hello </br>")
 	}
 
 }

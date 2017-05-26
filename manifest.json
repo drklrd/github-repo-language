@@ -13,7 +13,7 @@
   "content_scripts": [
     {
       "matches": ["*://*.github.com/*"],
-      "js": ["github-repo-lang.js"]
+      "js": ["jquery.min.js","github-repo-lang.js"]
     }
   ]
 
