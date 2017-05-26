@@ -2,11 +2,11 @@
 
 A simple chrome-extension to show repository's language.
 
-![alt tag](https://raw.githubusercontent.com/drklrd/github-repo-language/master/js.png)
+![alt tag](https://raw.githubusercontent.com/drklrd/github-repo-language/master/screenshots/js.png)
 
-![alt tag](https://raw.githubusercontent.com/drklrd/github-repo-language/master/elixir.png)
+![alt tag](https://raw.githubusercontent.com/drklrd/github-repo-language/master/screenshots/elixir.png)
 
-![alt tag](https://raw.githubusercontent.com/drklrd/github-repo-language/master/noimage.png)
+![alt tag](https://raw.githubusercontent.com/drklrd/github-repo-language/master/screenshots/noimage.png)
 
 
 ### Loading the extension
