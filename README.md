@@ -18,3 +18,6 @@ A simple chrome-extension to show repository's language.
 * Select the cloned or extracted directory (which directly contains manifest.json file inside)
 * Thats all ! Now whenever you open Github Repository page, this should be doing its job.
 
+### If you want to add your language
+
+Its super-easy to add other language resource. Just head over to js/resources.js and add link to an image.
