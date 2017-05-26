@@ -20,7 +20,11 @@ if (githubUrl.split('github.com') && githubUrl.split('github.com').length && git
 					break;
 				}
 			}
-			if(activeRepoLanguage) $('#repo-lang').html(`<br> <br> <span style='`+langStyle+`'>  ${activeRepoLanguage} </span> `);
+			if(activeRepoLanguage){
+				$('#repo-lang').html(`<br> <br> <span style='`+langStyle+`'>  ${activeRepoLanguage} </span> `)
+			}else{
+				$('#repo-lang').html(`<br> <br> <span style='`+langStyle+`'>  ${'No language information available'} </span> `)
+			}
 		});
 		
 	}
