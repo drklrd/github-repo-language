@@ -1,6 +1,7 @@
 var langStyle = "\
 				background-color:#ffffff;\
 				border-radius:5px;\
+				border: 1px dotted #000000;\
 				color:#0366D6;\
 				padding:5px";
 
